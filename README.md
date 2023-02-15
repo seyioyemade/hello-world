@@ -1,133 +1,185 @@
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
+<a name="readme-top"></a>
 
+<!-- TABLE OF CONTENTS -->
 
-📖 [Microverse hello project]
+# 📗 Table of Contents
 
-This is my hello microverse project with a heading of "Hello Microverse"
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
 
-🛠 Built With
+# 📖 [Microverse Hello World Project] <a name="about-project"></a>
+
+**[Microverse Hello World Project]** is a project whose goal is to master all of the tools and best practices of web development.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
 - HTML, CSS
 - No Frameworks
 - Technologies Used- HTML, CSS, GIT, Linters (GitHub Actions, Lighthouse, Webhint, Stylelint, Eslint)
 
+<!-- Features -->
 
-Tech Stack
+### Key Features <a name="key-features"></a>
 
-- Client
-
-Key Features
-
-This project display the heading "Hello Microverse!"
-
-[A webpage that displays 'Hello Microverse!']
+- **[A webpage that displays 'Hello Microverse!']**
 
 
-🚀 Live Demo
-Add a link to your deployed project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Live Demo Link
+<!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="live-demo"></a>
 
-💻 Getting Started
-Describe how a new developer could make use of your project.
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://seyioyemade.github.io/hello-world/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
 
 To get a local copy up and running, follow these steps.
 
-Prerequisites
+### Prerequisites
+
 In order to run this project you need:
 
-You need to have npm installed in your PC first.
+You need to have npm installed on your PC first.
 
 
-Setup
+
+### Setup
 
 Clone this repository to your desired folder:
 
 [https://github.com/seyioyemade/hello-world.git]
 
-Install
+
+
+### Install
+
 Install this project with:
 
--Copy the URL.
+-Copy the URL [https://github.com/seyioyemade/hello-world.git].
 
 -In Visual Studio Code “Terminal” change the current working directory to the location where you want the cloned directory.
 
 -Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
 
-$ git clone {https://github.com/seyioyemade/hello-world.git}
+git clone [https://github.com/seyioyemade/hello-world.git]
 
 
-Usage
+
+### Usage
+
 To run the project, execute the following command:
 
-sh
- rbenv install 2.5.3
 
-sh
- bundle install
+### Run tests
+
+To run tests, run the following command:
+
+
+### Deployment
+
+You can deploy this project using:
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
 
-👥 Authors
-Mention all of the collaborators of this project.
-
-👤 Author1
-GitHub: @seyioyemade [https://github.com/seyioyemade]
-Twitter: @seyi_oyemade
-LinkedIn: [https://www.linkedin.com/in/seyi-oyemade-523ab1142]
+## 👥 Authors <a name="authors"></a>
 
 
-🤝 Contributing
+👤 **Author1**
+
+- GitHub: [@seyioyemade](https://github.com/seyioyemade)
+- Twitter: [@seyi_oyemade](https://twitter.com/@seyi_oyemade)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
 -[https://github.com/seyioyemade/hello-world/issues]
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
+<!-- SUPPORT -->
 
-If you like this project...
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project and would love to show your support, please contact the author.
 
 
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-I would like to thank... [Microverse](https://www.microverse.org/) for giving this opportunity to learn ...
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- I would like to thank [Microverse](https://www.microverse.org/) for giving this opportunity to learn.
 - Code Reviewers & Coding Partners.
 - Hat tip to anyone whose code was used.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-❓ FAQ (OPTIONAL)
-Can the program convert only one word?
-Yes
+<!-- FAQ (optional) -->
 
 
-📝 License
-This project is MIT licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
